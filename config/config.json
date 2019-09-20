@@ -1,0 +1,7 @@
+{
+	"clientID": "CloudConnector",
+	"hostName": "central-messaging-databus-app-0j6h5.system-apps.svc.cluster.local",
+	"port": "1883",
+	"userName": "cloud",
+	"password": "130kcNH9TODs1d9v/WJquHOqdPo/dseG1N2aoWrXvek="
+}
